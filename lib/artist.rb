@@ -1,0 +1,1 @@
+# learn spec/artist_spec.rb --fail-fast
