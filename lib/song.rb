@@ -1,0 +1,1 @@
+learn spec/song.rb --fail-fast
