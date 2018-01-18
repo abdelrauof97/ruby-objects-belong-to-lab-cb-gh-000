@@ -1,1 +1,1 @@
-# learn spec/song.rb --fail-fast
+# learn spec/song_spec.rb --fail-fast
