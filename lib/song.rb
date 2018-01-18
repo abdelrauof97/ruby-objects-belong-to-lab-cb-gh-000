@@ -1,1 +1,1 @@
-# earn spec/song.rb --fail-fast
+# learn spec/song.rb --fail-fast
